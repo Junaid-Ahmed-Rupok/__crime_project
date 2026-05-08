@@ -451,7 +451,7 @@ If you use this work, please cite:
 @misc{dhaka_crime_classification_2025,
   title     = {Fairness-Aware Machine Learning for Crime Classification 
                in Dhaka Metropolitan Area},
-  author    = {[Your Name]},
+  author    = {[Sarder Junaid Ahmed]},
   year      = {2025},
   note      = {Dhaka Metropolitan Crime Dataset, 3000 incidents, 6 crime types},
   url       = {https://github.com/yourusername/dhaka-crime-classification}
